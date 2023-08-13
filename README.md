@@ -60,8 +60,6 @@
 
 # <a id="download-info"></a>[🗂 Download]
 
-[Download Sanula - click - Mega](http://gg.gg/megadownload)
-Password: launcher
+[Download Sanula](http://gg.gg/gitdownload)
 
-[Download Sanula - click - DropMeFiles](http://gg.gg/dropmefilesdownload)
-Password: launcher
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](http://gg.gg/gitdownload)
